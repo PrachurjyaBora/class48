@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6eb53ef5-66cd-4d10-95ec-8f85b6927469",
+    "data": [
+      {
+        "text": "Baby Corn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2b31ace-78b1-4a1e-93f2-1e40960ce6ef",
+    "data": [
+      {
+        "text": "Cold Drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9073266c-5fbd-400c-88d5-a99739ae2182",
+    "data": [
+      {
+        "text": "Ice creams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f95b8cb2-3c56-4b1d-b859-2fd783bf2efb",
+    "data": [
+      {
+        "text": "Tomato  Soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faa9147b-d4d4-470c-ba55-ddeb5eb70e0a",
+    "data": [
+      {
+        "text": "Paneer Tikka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
